@@ -1,0 +1,59 @@
+body{
+    background:#a19e9e;
+    display: flex;
+    justify-content:center;
+    
+  
+}
+h4{
+    color:red;
+   
+    
+}
+
+.box{
+    position: absolute;
+    top: 25%;
+    background-color: #e9e6e6;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    height: 280px;
+
+}
+
+p{
+    margin: 15px;
+    text-align: start;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+label{
+    
+    font-family:'Times New Roman', Times, serif;
+
+}
+.info{
+    background-color: #e2dfdf;
+    flex-grow: 8;
+}
+.log{
+    margin: 20px 10px 0px 10px;
+    flex-grow: 2;
+    background-color: #e9e6e6;
+}
+.btn{
+    margin-left:250px;
+}
+.cnx{
+    margin-left:50px
+}
+#pswd{
+    margin-right: 28px;
+}
+input{
+    margin-bottom: 5px;
+    margin-left: 2px;
+}
